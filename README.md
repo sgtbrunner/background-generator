@@ -1,6 +1,6 @@
-# Project Title
+# Background Generator
 
-Background Generator: A page that generates a linear color gradient as a background. Includes user inputs and a randomize function.
+A page that generates a linear color gradient as a background. Includes user inputs and a randomize function.
 
 ## Getting Started
 
