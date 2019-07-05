@@ -2,11 +2,11 @@
 
 A page that generates a linear color gradient as a background. Includes user inputs and a randomize function.
 
-### Prerequisites
+## Prerequisites
 
 None
 
-### Getting Started
+## Getting Started
 
 On terminal:
 1. Run `git clone https://github.com/sgtbrunner/background-generator.git`
