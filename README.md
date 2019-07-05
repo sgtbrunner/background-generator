@@ -6,7 +6,7 @@ A page that generates a linear color gradient as a background. Includes user inp
 
 None
 
-## Getting Started
+### Getting Started
 
 On terminal:
 1. Run `git clone https://github.com/sgtbrunner/background-generator.git`
